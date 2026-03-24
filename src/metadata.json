@@ -1,0 +1,5 @@
+{
+  "name": "Return and Refund Details Page",
+  "description": "A React application that replicates the UI for a return and refund details page from an e-commerce platform, built with TypeScript and Tailwind CSS.",
+  "requestFramePermissions": []
+}
